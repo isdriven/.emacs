@@ -1,0 +1,1 @@
+App::snippet('text')->setAlign('${2:center}')    ->addText( ${1:...} )    ->render();

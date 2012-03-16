@@ -1,0 +1,1 @@
+App::snippet('headline')->addText('$1')->setColor('$2')->setBorderHeight(1)->render();$0
